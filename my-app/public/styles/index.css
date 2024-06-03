@@ -1,0 +1,26 @@
+html {
+    background-color: #00000f;
+    background-image: url("https://www.transparenttextures.com/patterns/axiom-pattern.png");
+    color: aliceblue;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+
+.todos {
+    display: flex;
+    
+}
+.todos input {
+    margin-right: 10px;
+    align-items: start;
+}
+
+li {
+    list-style-type: none;
+    float: right;
+    
+}
